@@ -4,3 +4,6 @@ Download the repository and run the photos.html from your browser to test it.
 
 References: stackoverflow.com
             w3schools.com
+
+Note: It works for any court size dimensions and any number of photos.
+manipulate vx and vy's in the code to understand it better.
