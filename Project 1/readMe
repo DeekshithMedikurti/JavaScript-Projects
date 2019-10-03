@@ -2,8 +2,8 @@ A Simple game that moves photos around in a court based on collision detection u
 without using any external libraries from JQuery. A simple app to think coding "the gaming way".
 Download the repository and run the photos.html from your browser to test it.
 
-References: www.stackoverflow.com
-            www.w3schools.com
+References: https://stackoverflow.com
+            https://www.w3schools.com
 
 Note: It works for any court size dimensions and any number of photos.
 manipulate vx and vy's in the code to understand it better.
